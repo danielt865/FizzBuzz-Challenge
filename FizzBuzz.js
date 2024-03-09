@@ -5,6 +5,8 @@ for( var i=1; i<101; i++ ) {
         console.log( "Fizz" );
     }else if( (i%5) === 0 ) {
         console.log( "Buzz" );
+    }else if ((i%15) === 0) {
+        console.log("Fizz Buzz");
     }else{
         console.log( i );
     }
