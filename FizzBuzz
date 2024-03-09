@@ -1,2 +1,3 @@
 //This file explains what FizzBuzz is.
 //FizzBuzz is a simple coing counting game. It is supposed to count by 1, and at each multiple of 3, it prints "Fizz". Then at each multiple of 5, it prints "Buzz".
+//When there are multiples of 15, it prints "Fizz Buzz".
